@@ -44,8 +44,8 @@ Identical function to the previous one, but does not require the opencv library 
 
 ### Others
 - CMake
-- RapidJSON (via vcpkg or sudo apt install -y rapidjson-dev)
-- OpenCV (necessary only for the *grab* function)
+- RapidJSON (via **vcpkg** or **sudo apt install -y rapidjson-dev**)
+- OpenCV (necessary only for the **grab** function)
 
 
 
