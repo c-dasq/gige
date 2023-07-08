@@ -34,7 +34,10 @@ Identical function to the previous one, but does not require the opencv library 
 
 ## Requirements:
 
-### Pylon (https://www.baslerweb.com/en/downloads/software-downloads/)
+### Pylon
+
+Download from: https://www.baslerweb.com/en/downloads/software-downloads/
+
 - Windows 10
 -   pylon 7.3.0 Camera Software Suite Windows
 - Linux
