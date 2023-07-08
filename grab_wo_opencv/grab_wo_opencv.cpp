@@ -43,7 +43,7 @@ void CaptureImageBySerialNumber(const string& serialNumber)
 
         if (grabResult->GrabSucceeded())
         {
-            // Guardar la imagen en un archivo
+            // Guardar la imagen en un archivo, en éste caso tipo TIF
             CPylonImage image;
             image.AttachGrabResultBuffer(grabResult);
             image.Save(ImageFileFormat_Tiff, "resultado.tif");
