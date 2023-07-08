@@ -34,7 +34,7 @@ Identical function to the previous one, but does not require the opencv library 
 
 ## Requirements:
 
-# Pylon (https://www.baslerweb.com/en/downloads/software-downloads/)
+### Pylon (https://www.baslerweb.com/en/downloads/software-downloads/)
 - Windows 10
 -   pylon 7.3.0 Camera Software Suite Windows
 - Linux
@@ -42,7 +42,7 @@ Identical function to the previous one, but does not require the opencv library 
 - Linux ARM
 -   pylon 7.3.0 Camera Software Suite Linux ARM 64 bit
 
-# Others
+### Others
 - CMake
 - RapidJSON (via vcpkg or sudo apt install -y rapidjson-dev)
 - OpenCV (necessary only for the *grab* function)
