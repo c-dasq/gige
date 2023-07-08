@@ -19,4 +19,16 @@ Several error catches have been placed in case no cameras are available to test 
 ## grab_wo_opencv
 Identical function to the previous one, but does not require the opencv library (due to its complexity to be compiled on some architectures); it returns an image in .tif format.
 
+## tested on the following systems and architectures:
+
+### OS
+- Windows 10.0.19045.3086
+- Debian 11 (Bullseye)
+- Ubuntu 20.04 LTS (Focal Fossa)
+- Ubuntu 22.04 LTS (Jammy Jellyfish
+- Ubuntu 23.04 (Lunar Lobster)
+
+### Architecture
+- arm64
+- AMD64 (x86_64)
 
