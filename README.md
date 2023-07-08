@@ -28,7 +28,7 @@ Identical function to the previous one, but does not require the opencv library 
 - Ubuntu 22.04 LTS (Jammy Jellyfish
 - Ubuntu 23.04 (Lunar Lobster)
 
-### Architecture
+### Architectures
 - arm64
 - AMD64 (x86_64)
 
