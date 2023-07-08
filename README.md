@@ -1,4 +1,5 @@
 # GigE C++
+-----------
 
 This code consists of three tools that allow you to do the following:
 
@@ -39,11 +40,11 @@ Identical function to the previous one, but does not require the opencv library 
 Download from: https://www.baslerweb.com/en/downloads/software-downloads/
 
 - Windows 10
--   pylon 7.3.0 Camera Software Suite Windows
+  - pylon 7.3.0 Camera Software Suite Windows
 - Linux
--   pylon 7.3.0 Camera Software Suite Linux x86 [64 Bit]
+  - pylon 7.3.0 Camera Software Suite Linux x86 [64 Bit]
 - Linux ARM
--   pylon 7.3.0 Camera Software Suite Linux ARM 64 bit
+  - pylon 7.3.0 Camera Software Suite Linux ARM 64 bit
 
 ### Others
 - CMake
