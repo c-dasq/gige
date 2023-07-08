@@ -1,9 +1,8 @@
 # GigE C++
 -----------
 
-This code consists of three tools that allow you to do the following:
-
 ## Tools
+This code consists of three tools that allow you to do the following:
 
 ### enumerate
 Lists the cameras available on the local network, and returns a JSON with the following data:
